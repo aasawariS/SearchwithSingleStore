@@ -1,6 +1,6 @@
 # Hybrid Search with SingleStore — Amazon Reviews Demo
 
-This repository demonstrates how to run **real-time hybrid search** (full-text + vector similarity + combined scoring) on a dataset of Amazon product reviews using [SingleStore Helios](https://www.singlestore.com/helios/).
+This repository demonstrates how to run **real-time hybrid search** (full-text + vector similarity + combined scoring) on a dataset of Amazon product reviews using [SingleStore Helios](https://www.singlestore.com/helios/?utm_source=Aasawari&utm_medium=blog&utm_campaign=elastic&utm_content=singlestoresearch).
 
 The notebook [`SingleStore10Kreviews.ipynb`](./SingleStore10kReviewsipynb) shows how to:
 
@@ -109,5 +109,5 @@ With SingleStore, you don’t need multiple systems for text, vector, and analyt
 
 ## 📌 CTA
 
-Finally, learn more about SingleStore — visit our [official documentation](https://docs.singlestore.com).
-You can also [register for a SingleStore webinar](https://www.singlestore.com/resources/webinars/) and learn about the latest concepts and technologies with hands-on experience.
+Finally, learn more about SingleStore — visit our [official documentation](https://docs.singlestore.com/?utm_source=Aasawari&utm_medium=blog&utm_campaign=elastic&utm_content=singlestoresearch).
+You can also [register for a SingleStore webinar](https://www.singlestore.com/resources/webinars/?utm_source=Aasawari&utm_medium=blog&utm_campaign=elastic&utm_content=singlestoresearch) and learn about the latest concepts and technologies with hands-on experience.
